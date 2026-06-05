@@ -1,5 +1,11 @@
 # aws-cdk-local-lambda
 
+## 1.0.2
+
+### Patch Changes
+
+- d22c1d3: Add Keywords, Pre-Commit Hooks, Extensionless Relative Imports, Improved Hot-Reloader Debouncing
+
 ## 1.0.1
 
 ### Patch Changes
